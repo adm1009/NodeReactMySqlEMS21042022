@@ -1,0 +1,59 @@
+.heading{
+    display: inline-block;
+    margin-left: 90px;
+    color:aliceblue;
+}
+.navback{
+    background-color: cornflowerblue;
+}
+.buttons{
+    background-color: cornflowerblue;
+    border: none;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+}
+.nestedpersonal{
+    height:140px;
+    /* border: 1px solid grey; */
+   background-color: cornflowerblue;
+   color: white;
+   text-decoration: none;
+   width: 200px;
+   margin-left: 340px;
+   font-size: 5px;
+   margin-top: -4px;
+}
+.nestedleave{
+    height:55px;
+    /* border: 1px solid grey; */
+   background-color: cornflowerblue;
+   color: white;
+   text-decoration: none;
+   width: 200px;
+   margin-left: 600px;
+   font-size: 5px;
+   margin-top: -4px;
+}
+.nestedemployee{
+    height:175px;
+    /* border: 1px solid grey; */
+   background-color: cornflowerblue;
+   color: white;
+   text-decoration: none;
+   width: 230px;
+   margin-left: 830px;
+   font-size: 5px;
+   margin-top: -4px;
+}
+.logoutbutton{
+    background-color:cornflowerblue;
+    border: none;
+    color: white;
+    height: 25px;
+    width: 50px;
+    display: inline-block;
+}
+.hrtag{
+    color:white;
+}

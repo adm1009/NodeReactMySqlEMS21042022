@@ -1,0 +1,154 @@
+.card{
+    position: absolute;
+    margin-left: 430px;
+    background-color:#ddd;
+    border: 1px solid black;
+    border-radius: 15px;
+    height: 110px;
+    width: 300px;
+    /* margin-top: -200px; */
+}
+.reg{
+  text-decoration: underline;
+  text-align: right;
+  color: cornflowerblue;
+  margin-top: -20px;
+}
+.cardError{
+  position: absolute;
+    margin-left: 430px;
+    background-color: #ddd;
+    border: 1px solid black;
+    border-radius: 15px;
+    height: 150px;
+    width: 300px;
+    /* margin-top: -200px; */
+}
+.loginbutton{
+    background-color:cornflowerblue;
+    border: none;
+    color: white;
+    height: 25px;
+    width: 55px;
+    margin-top: 5px;
+    margin-left: 125px;
+}
+#data {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-size:smaller;
+  }
+  #data thead {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: black;
+    background-color:#ddd;
+  }
+  #data td {
+    border: 1px solid grey;
+    padding: 2px;
+    padding-top: 12px;
+  }
+  .cardaccordian{
+    text-align: center;
+    border: 2px solid lightgray;
+    height: 220px;
+    width: 500px;
+    margin-top: -20px;
+    background-color: #ddd;
+    margin-left: 130px;
+  }
+  .hrtag{
+    color: white;
+  }
+  .forgotpassword{
+    margin-top: 0px;
+    margin-left: 126px;
+    color:cornflowerblue;
+    font-family: fantasy;
+    font-size: 15px;
+  }
+  .forgotpasswordError{
+    margin-top: -20px;
+    margin-left: 126px;
+    color:cornflowerblue;
+    font-family: fantasy;
+    font-size: 15px;
+  }
+  .newpassword{
+    font-weight: bold;
+  }
+  .submitCancelButton{
+    color: white;
+    background-color: cornflowerblue;
+    height: 25px;
+    width: 50px;
+    border: none;
+  }
+  .topaccordianlogin{
+      margin-top: 130px;
+  }
+  .topaccordianregister{
+    margin-top: 30px;
+}
+.devaccordian{
+  text-align: center;
+    border: 2px solid lightgray;
+    height: 310px;
+    width: 500px;
+    margin-top: -20px;
+    background-color: #ddd;
+    margin-left: 130px;
+}
+.aspaccordian{
+  text-align: center;
+    border: 2px solid lightgray;
+    height: 990px;
+    width: 500px;
+    margin-top: -20px;
+    background-color: #ddd;
+    margin-left: 130px;
+}
+.qaaccordian{
+  text-align: center;
+    border: 2px solid lightgray;
+    height: 440px;
+    width: 500px;
+    margin-top: -20px;
+    background-color: #ddd;
+    margin-left: 130px;
+}
+.phpcoaccordian{
+  text-align: center;
+    border: 2px solid lightgray;
+    height: 290px;
+    width: 500px;
+    margin-top: -20px;
+    background-color: #ddd;
+    margin-left: 130px;
+}
+.phplaaccordian{
+  text-align: center;
+    border: 2px solid lightgray;
+    height: 290px;
+    width: 500px;
+    margin-top: -20px;
+    background-color: #ddd;
+    margin-left: 130px;
+}
+.reactaccordian{
+  text-align: center;
+    border: 2px solid lightgray;
+    height: 300px;
+    width: 500px;
+    margin-top: -20px;
+    background-color: #ddd;
+    margin-left: 130px;
+}
+  
+
+  
+  
+ 
